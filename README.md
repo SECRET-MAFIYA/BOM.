@@ -39,7 +39,7 @@ git clone https://github.com/SECRET-MAFIYA/BOM..git
 
 
 
-cd BOM
+cd BOM.
 
 
 
